@@ -4,7 +4,7 @@ Machine Learning project to predict term deposit subscription using Random Fores
 # 📊 Portuguese Bank Marketing Prediction
 # 📌 Objective
 
-# Predict whether a customer will subscribe to a term deposit using Machine Learning.
+Predict whether a customer will subscribe to a term deposit using Machine Learning.
 
 # 🔍 Models Used
 
